@@ -8,5 +8,11 @@ World Happiness Report publishes articles and rankings of countries based upon t
 * Generosity
 * Perception of corruption.
 
-I made a R shiny App and R markdown analyzing the data 
+I made a R shiny App and infographic analyzing the data 
 Link of the App :- https://whrdikshantgupta.shinyapps.io/trentassignment/
+
+Image of Infographic:-
+
+
+![image](https://user-images.githubusercontent.com/54064899/192968356-167acfe6-1d74-46ae-9f0e-fab1831038b3.png)
+
